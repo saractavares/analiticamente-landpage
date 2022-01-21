@@ -84,6 +84,7 @@ a {
 
 .credito {
 
+    font-size: 10px;
     align-items    : baseline;
     flex-direction : row;
     justify-content: baseline;
